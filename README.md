@@ -1,6 +1,6 @@
 # Mike Guwak
 
-**`Mehr als 30 Jahre Berufserfahrung in der IT`**\
+**`Mehr als 30 Jahre Berufserfahrung in der IT`**
 
 Mit über 30 Jahren Erfahrung in der IT habe ich immer noch Spaß am Lernen und teile mein Wissen gerne mit anderen. Auf meinem\
 YouTube-Kanal erstelle ich Tutorials zu verschiedenen IT-Themen, um mein Wissen weiterzugeben und komplexe Themen\
