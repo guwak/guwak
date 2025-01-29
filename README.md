@@ -7,7 +7,7 @@ YouTube-Kanal erstelle ich Tutorials zu verschiedenen IT-Themen, um mein Wissen 
 verständlich zu erklären.
 
 Open Source begeistert mich, und ich arbeite gerne an Projekten, die Wissen und Technologie für alle zugänglich machen.\
-Schaut euch meine [GitHub](https://github.com/guwak) oder [Youtube Kanal](https://www.youtube.com/@TechnicalDoctorde) an – vielleicht ist etwas Nützliches für euch dabei!
+Schaut euch meine [GitHub](https://github.com/technicaldoctor) oder [Youtube Kanal](https://www.youtube.com/@TechnicalDoctorde) an – vielleicht ist etwas Nützliches für euch dabei!
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/guwak/custom-icon-badges -->
@@ -18,13 +18,13 @@ Schaut euch meine [GitHub](https://github.com/guwak) oder [Youtube Kanal](https:
   <a href="https://www.youtube.com/c/TechnicalDoctorde">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCTtDZf9bO1ewHva6ERbmxKA?color=%23E1AD0E&logo=eye&logoColor==white&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/guwak?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/guwak?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/technicaldoctor?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/guwak?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/guwak?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/guwak?tab=repositories&sort=stargazers">
-    <img alt="total starts" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/guwak?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/technicaldoctor?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/technicaldoctor?tab=repositories&sort=stargazers">
+    <img alt="total starts" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/technicaldoctor?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
 ---
 
-![Mike Guwak GitHub stats](https://github-readme-stats.vercel.app/api?username=guwak&show_icons=true&theme=monokai)
+![TechnicalDoctor GitHub stats](https://github-readme-stats.vercel.app/api?username=technicaldoctor&show_icons=true&theme=monokai)
