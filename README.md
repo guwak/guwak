@@ -6,9 +6,9 @@ Mit über 30 Jahren Erfahrung in der IT habe ich immer noch Spaß am Lernen und 
 YouTube-Kanal erstelle ich Tutorials zu verschiedenen IT-Themen, um mein Wissen weiterzugeben und komplexe Themen\
 verständlich zu erklären.
 
-💻 Open Source begeistert mich, und ich arbeite gerne an Projekten, die Wissen und Technologie für alle zugänglich machen.\
-Schaut euch meine Repositories an – vielleicht ist etwas Nützliches für euch dabei!\
-🚀 Lasst uns gemeinsam lernen und wachsen!
+Open Source begeistert mich, und ich arbeite gerne an Projekten, die Wissen und Technologie für alle zugänglich machen.\
+Schaut euch meine Repositories oder [Youtube Kanal](https://www.youtube.com/@TechnicalDoctorde) an – vielleicht ist etwas Nützliches für euch dabei!
+
 
 <!--
 **guwak/guwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
