@@ -27,5 +27,4 @@ Schaut euch meine [GitHub](https://github.com/guwak) oder [Youtube Kanal](https:
 
 ---
 
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
+
