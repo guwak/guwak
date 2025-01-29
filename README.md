@@ -1,4 +1,4 @@
-# Mike Guwak
+# TechnicalDoctor
 
 **`Mehr als 30 Jahre Berufserfahrung in der IT`**
 
