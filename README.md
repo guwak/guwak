@@ -27,5 +27,6 @@ Schaut euch meine [GitHub](https://github.com/guwak) oder [Youtube Kanal](https:
 
 ---
 
+<p align="center">
 ![Mike Guwak GitHub stats](https://github-readme-stats.vercel.app/api?username=guwak&show_icons=true&theme=monokai)
-
+</p>
