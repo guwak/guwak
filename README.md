@@ -14,7 +14,7 @@ Schaut euch meine [GitHub](https://github.com/guwak) oder [Youtube Kanal](https:
 <!-- View counter - https://github.com/guwak/Simple-View-Counter -->
 <p align="center">
   <a href="https://www.youtube.com/c/TechnicalDoctorde?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/"/></a>
   <a href="https://www.youtube.com/c/TechnicalDoctorde">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
