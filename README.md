@@ -7,7 +7,7 @@ YouTube-Kanal erstelle ich Tutorials zu verschiedenen IT-Themen, um mein Wissen 
 verständlich zu erklären.
 
 Open Source begeistert mich, und ich arbeite gerne an Projekten, die Wissen und Technologie für alle zugänglich machen.\
-Schaut euch meine Repositories oder [Youtube Kanal](https://www.youtube.com/@TechnicalDoctorde) an – vielleicht ist etwas Nützliches für euch dabei!
+Schaut euch meine [GitHub](https://github.com/guwak) oder [Youtube Kanal](https://www.youtube.com/@TechnicalDoctorde) an – vielleicht ist etwas Nützliches für euch dabei!
 
 
 <!--
