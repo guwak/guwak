@@ -26,7 +26,7 @@ Schaut euch meine [GitHub](https://github.com/guwak) oder [Youtube Kanal](https:
 </p>
 
 ---
-[![TechnicalDoctor](https://img.youtube.com/vi/l_h8Ug9JRj9ARg0H/0.jpg)](https://www.youtube.com/embed/HPjt514-seQ?si=l_h8Ug9JRj9ARg0H)
+[![TechnicalDoctor](https://img.youtube.com/vi/h8Ug9JRj9ARg0H/0.jpg)](https://www.youtube.com/embed/HPjt514-seQ?si=l_h8Ug9JRj9ARg0H)
 
 ![Mike Guwak GitHub stats](https://github-readme-stats.vercel.app/api?username=guwak&show_icons=true&theme=monokai)
 
