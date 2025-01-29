@@ -16,7 +16,7 @@ Schaut euch meine [GitHub](https://github.com/guwak) oder [Youtube Kanal](https:
   <a href="https://www.youtube.com/c/TechnicalDoctorde?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCTtDZf9bO1ewHva6ERbmxKA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
   <a href="https://www.youtube.com/c/TechnicalDoctorde">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/view/UCTtDZf9bO1ewHva6ERbmxKA?color=%23E1AD0E&logo=eye&logoColor==white&style=for-the-badge&labelColor=C79600"/></a> 
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCTtDZf9bO1ewHva6ERbmxKA?color=%23E1AD0E&logo=eye&logoColor==white&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/guwak?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/guwak?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/guwak?tab=followers">
